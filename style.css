@@ -717,22 +717,33 @@ ul, ol {
 }
 
 .award-info h3 {
+  font-family: var(--font-sans);
   font-size: 14px;
   font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 6px;
+  color: var(--color-text);
+}
+
+.award-org {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--color-text-muted);
   margin-bottom: 2px;
 }
 
+.award-cat {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--color-text-muted);
+}
+
 .award-year {
+  font-family: var(--font-sans);
   font-size: 12px;
   color: var(--color-brand);
   font-weight: 600;
   margin-bottom: 4px;
-}
-
-.award-info p:last-child {
-  font-size: 13px;
-  color: var(--color-text-muted);
-  line-height: 1.5;
 }
 
 /* ===========================
