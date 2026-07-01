@@ -10,13 +10,16 @@ Mahbubul Alam is a documentary photographer whose work focuses on communities li
 
 ## Sections
 
-- [Biography](https://mahbubulalamnayeem.me/#biography): Background and profile
-- [Series](https://mahbubulalamnayeem.me/#series): Photo series
-- [Press](https://mahbubulalamnayeem.me/#press): Press coverage
-- [Exhibitions](https://mahbubulalamnayeem.me/#exhibitions): Exhibition history
-- [Awards](https://mahbubulalamnayeem.me/#awards): Awards and recognition
+- [Biography](https://mahbubulalamnayeem.me/#biography): Background and profile of the photographer
+- [Press](https://mahbubulalamnayeem.me/#press): Press coverage including Dhaka Tribune Spotlight, May 2024
+- [Exhibitions](https://mahbubulalamnayeem.me/#exhibitions): Exhibition history including UN80 Youth Photo Exhibition and Asian Photo Fest
+- [Awards](https://mahbubulalamnayeem.me/#awards): Awards including winner of the 13th Photography Carnival "Muhurto" 2026 and UNESCO shortlist
 
 ## Social
 
-- Instagram: https://www.instagram.com/_through_my__eyes
-- Facebook: https://www.facebook.com/mahbubulalamnayeem
+- [Instagram](https://www.instagram.com/_through_my__eyes): Photography portfolio on Instagram
+- [Facebook](https://www.facebook.com/mahbubulalamnayeem): Facebook profile
+
+## Optional
+
+- [The Cost of Coexistence — Full Gallery](https://mahbubulalamnayeem.me/series/cost-of-coexistence.html): 26-photo documentary gallery on human-elephant conflict in Bangladesh
