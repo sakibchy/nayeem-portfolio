@@ -125,13 +125,17 @@
 }
 
 .series-photo-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 8px;
+  display: contents;
 }
 
 .series-photo--half {
-  aspect-ratio: 3/2;
+  max-height: 80vh;
+}
+
+.series-photo--half img {
+  max-height: 80vh;
+  object-fit: contain;
+  background: #0f0e0c;
 }
 
 /* ===========================
@@ -148,10 +152,6 @@
   .series-description {
     grid-template-columns: 1fr;
     gap: 0;
-  }
-
-  .series-photo-row {
-    grid-template-columns: 1fr;
   }
 
   .series-photo--full {
